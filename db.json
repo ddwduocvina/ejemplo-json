@@ -1,0 +1,33 @@
+{
+    "autos" : [
+        {
+            "marca": "Ford",
+            "modelo": "Mustang",
+            "fecha": 1969
+        },{
+            "marca": "Ford",
+            "modelo": "Explorer 4x4",
+            "fecha": 2022
+        },{
+            "marca": "Ford",
+            "modelo": "Focus",
+            "fecha": 1998
+        },{
+            "marca": "Suzuki",
+            "modelo": "Swift",
+            "fecha": 2017
+        },{
+            "marca": "Suzuki",
+            "modelo": "Alto",
+            "fecha": 2015
+        },{
+            "marca": "Kia",
+            "modelo": "Morning",
+            "fecha": 2005
+        },{
+            "marca": "Kia",
+            "modelo": "Rio",
+            "fecha": 2015
+        }
+    ]
+}
